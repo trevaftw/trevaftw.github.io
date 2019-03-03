@@ -57,6 +57,6 @@ h3 {
 }
 
 ul{
-  display:inline-block;
+  display:block;
   text-align:left;
 }
