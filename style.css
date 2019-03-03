@@ -15,6 +15,11 @@ h3 {
   text-align: center;
 }
 
+.summary {
+  border: 2px solid black;
+  background-color: #D3D3D3;
+}
+
 .work {
   border: 2px solid black;
   background-color: #D3D3D3;
