@@ -17,26 +17,31 @@ h3 {
 
 .summary {
   border: 2px solid black;
+  text-align: center; 
   background-color: #D3D3D3;
 }
 
 .work {
   border: 2px solid black;
+  text-align: center; 
   background-color: #D3D3D3;
 }
 
 .personal {
   border: 2px solid black;
+  text-align: center; 
   background-color: #D3D3D3;
 }
 
 .skills {
   border: 2px solid black;
+  text-align: center; 
   background-color: #D3D3D3;
 }
 
 .education {
   border: 2px solid black;
+  text-align: center; 
   background-color: #D3D3D3;
 }
 
