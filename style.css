@@ -7,6 +7,12 @@
   background-color: #D3D3D3;
 }
 
+li {
+  positoin: relative;
+  right: 10px;
+}
+
+
 #email {
   color: blue;
 }
