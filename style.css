@@ -31,6 +31,7 @@ h3 {
 }
 
 .experience {
+  display: block; 
   text-align: center;
 }
 .experience > ul {
