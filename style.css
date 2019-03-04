@@ -12,6 +12,7 @@
 .picture {
   border: 2px solid black;
   float: right;
+  overflow: auto; 
   width: 300px;
   padding: 10px;
 }
