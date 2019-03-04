@@ -1,9 +1,9 @@
 .top {
+  text-align: center; 
   background-color: #D3D3D3;
   margin: 2rem; 
   display: flex;
-  border: 2px solid black;
-  text-align: center; 
+  border: 2px solid black;  
 }
 
 
