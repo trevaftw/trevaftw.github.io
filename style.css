@@ -2,7 +2,7 @@
   text-align: center; 
   background-color: #D3D3D3;
   margin: 2rem; 
-  display: flex;
+  display: block;
   border: 2px solid black;  
 }
 
