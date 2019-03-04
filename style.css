@@ -51,10 +51,9 @@ h3 {
   color: blue;
 }
 
-ul {
-text-align: center;
+.experience {
+  text-align: center;
 }
-
-li {
-display: inline-block;
+.experience > ul {
+  display: inline-block;
 }
