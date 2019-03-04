@@ -24,15 +24,14 @@ h3 {
   margin: 2rem;
   display: block;
   text-align: center;
-  display: block;
 }
 .work > ul {
-  display: inline-block;
+  display: block;
 }
 
 .experience {
   display: block; 
-  text-align: center;
+  text-align: left;
 }
 .experience > ul {
   display: inline-block;
