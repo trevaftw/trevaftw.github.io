@@ -11,10 +11,9 @@
 
 .picture {
   border: 2px solid black;
-}
-
-li {
-  right: 40px;
+  float: right;
+  width: 300px;
+  padding: 10px;
 }
 
 h3 {
