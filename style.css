@@ -51,7 +51,7 @@ h3 {
 }
 
 .experience {
-  text-align: center;
+  text-align: left;
 }
 .experience > ul {
   display: inline-block;
