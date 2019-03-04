@@ -24,8 +24,16 @@ h3 {
   margin: 2rem;
   display: block;
   text-align: center;
+  display: block;
 }
 .work > ul {
+  display: inline-block;
+}
+
+.experience {
+  text-align: center;
+}
+.experience > ul {
   display: inline-block;
 }
 
@@ -55,9 +63,4 @@ h3 {
   color: blue;
 }
 
-.experience {
-  text-align: center;
-}
-.experience > ul {
-  display: inline-block;
-}
+
