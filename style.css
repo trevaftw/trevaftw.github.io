@@ -64,4 +64,9 @@ h3 {
   color: blue;
 }
 
-
+#profile {
+  height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+} 
